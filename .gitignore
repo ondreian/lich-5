@@ -14,6 +14,6 @@ maps/
 temp/
 .pre-commit-config.yaml
 *.swp
-scripts/
-data/
-lich/
+./scripts
+./data
+./lich
